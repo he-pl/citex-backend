@@ -87,4 +87,4 @@ docker-compose up --build
 Ativados os dois containers: 
 - UI do app: http://localhost:8080.
 - API do backend: http://localhost:5000/api/livros
-- Documentação Swagger das rotas: http://localhost:5000/apidocs/
+- Documentação Swagger das rotas: http://localhost:5000 ou http://localhost:5000/apidocs/
