@@ -66,7 +66,7 @@ docker build -t citex-backend .
 ```
 Depois de ativado:
 - http://localhost:5000/api/livros (API JSON)
-- http://localhost:5000/apidocs/ (Documentação Swagger)
+- http://localhost:5000 ou http://localhost:5000/apidocs/ (Documentação Swagger)
 
 
 
